@@ -1,6 +1,6 @@
 # Delta Gitster
 
-An [`OMZ`](https://github.com/robbyrussell/oh-my-zsh "robbyrussel/oh-my-zsh") theme inspired by [`ergenekonyigit/lambda-gitster`](https://github.com/ergenekonyigit/lambda-gitster "ergenekonyigit/lambda-gitster")
+An [`OMZ`](https://github.com/ohmyzsh/ohmyzsh "ohmyzsh/ohmyzsh") theme inspired by [`ergenekonyigit/lambda-gitster`](https://github.com/ergenekonyigit/lambda-gitster "ergenekonyigit/lambda-gitster")
 
 ## Prerequisite
 
@@ -14,7 +14,7 @@ This theme is built specifically for Oh My ZSH. In order to use it, the followin
 You can clone this theme via the following command:
 
 ```sh
-curl https://raw.githubusercontent.com/frrnhfz/delta-gitster/refs/heads/main/delta-gitster.zsh-theme -o $ZSH_CUSTOM/themes/delta-gitster.zsh-theme
+curl https://raw.githubusercontent.com/raschety/delta-gitster/refs/heads/main/delta-gitster.zsh-theme -o $ZSH_CUSTOM/themes/delta-gitster.zsh-theme
 ```
 
 Alternatively, you can run the installation script. This will run several
@@ -24,7 +24,7 @@ You can clone this repository from GitHub and run the installation script via
 the following commands:
 
 ```sh
-git clone https://github.com/frrnhfz/delta-gitster
+git clone https://github.com/raschety/delta-gitster
 cd delta-gitster
 zsh install.sh
 ```
@@ -33,7 +33,7 @@ You can also run the installation script directly without cloning this
 repository via the following command:
 
 ```sh
-curl -o- https://raw.githubusercontent.com/frrnhfz/delta-gitster/refs/heads/main/install.sh | zsh
+curl -o- https://raw.githubusercontent.com/raschety/delta-gitster/refs/heads/main/install.sh | zsh
 ```
 
 
