@@ -52,3 +52,9 @@ ZSH_THEME="random"
 - ZSH_THEME=(...)
 + ZSH_THEME=(... "delta-gitster")
 ```
+
+## License
+
+This project is licensed under
+[**The MIT License**](https://opensource.org/license/mit "The MIT License").
+You can read [`LICENSE`](./LICENSE "LICENSE") for more information.
