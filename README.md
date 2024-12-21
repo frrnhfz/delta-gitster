@@ -11,10 +11,10 @@ This theme is built specifically for Oh My ZSH. In order to use it, the followin
 
 ## Installation
 
-You can clone this repository via the following command:
+You can clone this theme via the following command:
 
 ```sh
-$ git clone https://github.com/frrnhfz/delta-gitster $ZSH_CUSTOM/themes/delta-gitster
+curl https://raw.githubusercontent.com/frrnhfz/delta-gitster/refs/heads/main/delta-gitster.zsh-theme -o $ZSH_CUSTOM/themes/delta-gitster.zsh-theme
 ```
 
 Once completed, modify the following in your `~/.zshrc` file:
