@@ -1,6 +1,6 @@
 # Delta Gitster
 
-An [`OMZ`](https://github.com/ohmyzsh/ohmyzsh "ohmyzsh/ohmyzsh") theme inspired by [`ergenekonyigit/lambda-gitster`](https://github.com/ergenekonyigit/lambda-gitster "ergenekonyigit/lambda-gitster")
+An [`OMZ`](https://github.com/ohmyzsh/ohmyzsh "ohmyzsh/ohmyzsh") theme inspired by [`ergenekonyigit/lambda-gitster`](https://github.com/ergenekonyigit/lambda-gitster "ergenekonyigit/lambda-gitster").
 
 ## Prerequisite
 
@@ -57,4 +57,4 @@ ZSH_THEME="random"
 
 This project is licensed under
 [**The MIT License**](https://opensource.org/license/mit "The MIT License").
-You can read [`LICENSE`](./LICENSE "LICENSE") for more information.
+Please read [`LICENSE`](./LICENSE "LICENSE") for more information.
